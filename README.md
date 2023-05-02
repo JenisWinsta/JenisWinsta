@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jenis-winsta
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning DBMS 
+- 🌱 I’m currently learning Web development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jeniswinsta@gmail.com
 
